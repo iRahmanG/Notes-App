@@ -8,7 +8,7 @@ This is a simple **Notes App** built as part of my **Android Development Summer 
 - 🧠 Create and save notes
 - ✏️ Edit existing notes
 - ❌ Delete notes
-- 🔍 Search through notes
+- 🔍 Search through notes (could not implement because facing problem in importing Transformations class)
 - ⭐ Mark notes by priority (if implemented)
 - 🧭 Navigation using Navigation Component
 - 🎨 Material Design UI
@@ -50,7 +50,9 @@ com.example.notesapp
 
 ## 📸 Screenshots
 
-*(Add screenshots here once UI is polished)*
+<img src="https://github.com/user-attachments/assets/8a5e6604-654c-4283-85f2-2d0c024c8771" width="250"/>
+<img src="https://github.com/user-attachments/assets/9daae451-cedb-44f9-8fdc-b3d613e7e941" width="250"/>
+<img src="https://github.com/user-attachments/assets/393d73ee-67c6-4b09-9eb6-51eb9e281abc" width="250"/>
 
 ---
 
@@ -66,17 +68,18 @@ com.example.notesapp
 
 ---
 
-
 ## 🧑‍🎓 Part of
+
 - 📚 Android Development Summer Roadmap
 -  Week 2: Jetpack Components + Notes App
 
 ---
 
 ## 👨‍💻 Author
- **M Rahman**
-- GitHub https://github.com/iRahmanG
-- LinkedIn https://www.linkedin.com/in/maksud-rahman-737818327/
+
+M Rahman
+[GitHub https](https://github.com/iRahmanG)
+[LinkedIn https](https://www.linkedin.com/in/maksud-rahman-737818327/)
 
 ---
 
