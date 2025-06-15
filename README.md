@@ -17,7 +17,7 @@ This is a simple **Notes App** built as part of my **Android Development Summer 
 
 ## 🛠 Tech Stack
 
-- **Language:** Java  
+- **Language:** Kotlin
 - **Architecture:** MVVM (Model-View-ViewModel)  
 - **Database:** Room  
 - **UI:** XML + Material Components  
